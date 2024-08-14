@@ -1,4 +1,5 @@
 import React from 'react'
+import '../css/paragrafo.css'
 
 const Paragrafo = ({ children, color }) => {
 
